@@ -1,4 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BWN2-Kl_)
-[REPLACE ME!] 
+# Milijana Stojanovic
+![image not available](myPhoto.jpg)
 
-Add your profile details here
+**eid: mstojanovikj | Username: stojanovic4**
+
+*Pronouns: she/her | Class of 2028 - Computer Science, Mathematics*
+
+Hobbies:
+- playing tennis
+- dancing
+- skiing
+
+Favorite movie: [La La Land](https://www.youtube.com/watch?v=0pdqf4P9MB8)
+
+[![image not available](https://theparamount.net/wp-content/uploads/2025/05/1596x898-La-La-Land.jpg)](https://www.youtube.com/watch?v=0pdqf4P9MB8)
